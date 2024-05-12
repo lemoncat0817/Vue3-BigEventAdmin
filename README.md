@@ -52,14 +52,8 @@ pnpm install
 pnpm dev
 ```
 
-### Compile and Minify for Production
+# 生產模式構建
 
 ```sh
 pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
 ```
